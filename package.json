@@ -1,0 +1,28 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "Christmas Countdown App NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbrealdev/node-countdown.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Countdown"
+  ],
+  "author": "lbrealdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lbrealdev/node-countdown/issues"
+  },
+  "homepage": "https://github.com/lbrealdev/node-countdown#readme",
+  "dependencies": {
+      "webwebweb": "^1.4.10"
+  }
+}
