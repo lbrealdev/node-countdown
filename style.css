@@ -1,0 +1,22 @@
+html {
+    height: 100vh;
+    flex: auto;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+#countdown-text { 
+    width: 100%; 
+    text-align: 
+    center; 
+    font-size: 128; 
+}
